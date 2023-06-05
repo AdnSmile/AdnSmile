@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Nessa
-- 👀 I’m interested in Web programming and Mobile App Development
-- 🌱 I’m currently learning PHP and Kotlin
+- 👀 I’m interested in Fullstack Mobile App Development 
+- 🌱 I’m currently learning Spring boot and PostgreSQL
 
 </p>
 <p align="center">
