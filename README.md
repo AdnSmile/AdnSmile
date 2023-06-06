@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Nessa
-- 👀 I’m interested in Fullstack Mobile App Development 
+- 👀 I’m interested in Fullstack Mobile Development 
 - 🌱 I’m currently learning Spring boot and PostgreSQL
 
 </p>
