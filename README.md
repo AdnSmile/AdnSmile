@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I am Nessa
+- 👋 I am Nessa
 - 👀 I am interested in full-stack mobile development. 
 - 🌱 I am currently learning Spring Boot and PostgreSQL.
 
