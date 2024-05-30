@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 I am Nessa
-- 👀 I am interested in full-stack mobile development. 
-- 🌱 I am currently learning Spring Boot and PostgreSQL.
+- 👀 Interested in full-stack mobile development. 
+- 🌱 Currently learning Spring Boot.
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdnSmile&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
