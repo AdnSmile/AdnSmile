@@ -3,7 +3,6 @@
 ### 📋 Current Activity
 
 - 🚀 I'm a Distinction Graduate of Mobile Development Cohort at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing) Batch 1 2023.
-- 💻 I'm a Back-end Developer intern at [berijalan](https://berijalan.co.id/).
 - 🌱 I'm Currently focusing on learning Back-end Development using Spring Boot.
 
 ---
