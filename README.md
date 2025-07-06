@@ -2,7 +2,7 @@
 
 ### 📋 Current Activity
 
-- 🚀 iOS Developer Intern at Apple Developer Academy @ UC 🍎
+- 🚀 iOS Developer Intern at Apple Developer Academy @ UC 🍎 
 
 ---
 
